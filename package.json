@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.11"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "ethers": "^6.13.2",
+    "mocha": "^10.7.3"
+  }
+}
